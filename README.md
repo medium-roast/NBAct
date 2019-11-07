@@ -15,7 +15,7 @@
  * [`styles`](src/styles) - CSS for the HTML elements corresponding to React components
 
 ## Usage
-Use `npm` to install the packages used in this project: `antd`, `lodash`, `nba` and `d3`. 
+Use `npm` to install the packages needed in this project: `antd`, `lodash`, `nba` and `d3`. 
  
  ## Demo
 | <img src="demo/dashboard.PNG" width="700"> |
