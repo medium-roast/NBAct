@@ -20,6 +20,9 @@ Use `npm` to install the packages used in this project: `antd`, `lodash`, `nba` 
  ## Demo
 | <img src="demo/dashboard.PNG" width="700"> |
 :-------------------------:
-| <em>Dashboard</em> |
+| <em>Dashboard in hexbin display theme</em> |
+| <img src="demo/scatter-theme.png" width="700"> |
+| <em>Dashboard in scatter display theme</em> |
 | <img src="demo/search-bar.png" width="700"> |
 | <em>Autocomplete search bar</em> |
+
