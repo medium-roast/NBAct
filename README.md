@@ -5,9 +5,9 @@
  
  The webpage is developed using Reactjs, d3 and Ant Design, and the player data is obtained from APIs provided by [stat.nba.com](https://stats.nba.com/). In details, the [d3-shotchart](https://www.npmjs.com/package/d3-shotchart) library is used to create the shotchart, the Ant Design [Autocomplete](https://ant.design/components/auto-complete/) component is adopted in the search bar, and the [nba](https://www.npmjs.com/package/nba) package is used to fetch and parse the raw data from [stat.nba.com](https://stats.nba.com/). The following diagram describes the structure and data flow between React components.
  
- 
- 
- 
+| <img src="demo/diagram.PNG" width="700"> |
+:-------------------------:
+| <em>Structure and data flow between React components</em> | 
  
  ## Source Code
  [`src`](src) contains the HTML, CSS and JavaScript codes. 
